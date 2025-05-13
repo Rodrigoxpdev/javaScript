@@ -1,3 +1,3 @@
 # javaScript
-Curso de java script, Do curso em vídeo! 
+Estou aprendendo javaScript, no curso em video!
 
